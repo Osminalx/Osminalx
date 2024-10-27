@@ -54,7 +54,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,express,github,html,idea,java,js,linux,md,r,mongodb,mysql,postgresql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,java,py,rust,r,js,ts,html,css,discord,docker,express,github,idea,linux,md,mongodb,mysql,postgresql,redis,nextjs,nodejs,react,tauri,tailwind,vscode&perline=14" />
   </a>
 </p>
 </p>        
