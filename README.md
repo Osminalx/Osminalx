@@ -12,7 +12,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on a **discord bot**
-- 🌱 I’m currently learning **ML, mobile dev, rust**
+- 🌱 I’m currently learning **ML, fullStack, rust**
 - 📫 How to reach me: **osminfregosoangel@gmail.com**
 <!--Intro end-->
 
